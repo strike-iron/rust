@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildprofiles xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+               xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd">
+    <variables>
+        <header-logo>icon48.svg</header-logo>
+        <custom-favicons>
+            icon16.svg,icon32.svg,icon96.svg,icon300.svg,icon500.svg
+        </custom-favicons>
+        <web-root>https://majiko.org/rust/</web-root>
+        <product-web-url>https://majiko.org/rust/</product-web-url>
+
+        <color-preset>vivid</color-preset>
+
+        <search-scope/>
+
+        <noindex-content>false</noindex-content>
+
+        <analytics-head-script-file>../.gtm/google-analytics-code.html
+        </analytics-head-script-file>
+        <analytics-body-html-file>../.gtm/google-analytics-noscript.html
+        </analytics-body-html-file>
+
+        <generate-canonicals>true</generate-canonicals>
+        <generate-sitemap-url-prefix>https://majiko.org/rust/
+        </generate-sitemap-url-prefix>
+
+        <enable-browser-edits>true</enable-browser-edits>
+        <browser-edits-url>https://github.com/strike-iron/rust/tree/main/docs/
+        </browser-edits-url>
+    </variables>
+
+    <build-profile instance="main">
+        <sitemap priority="1" change-frequency="daily"/>
+    </build-profile>
+
+    <footer>
+        <social type="email" href="ayu.exorcist@gmail.com">Email</social>
+
+        <link href="https://github.com/strike-iron/rust">GitHub</link>
+
+        <copyright>2024 Yu Li</copyright>
+    </footer>
+</buildprofiles>

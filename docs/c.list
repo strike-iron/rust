@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE categories
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/categories.dtd">
+<categories>
+    <category id="related" name="相关话题" order="1"/>
+    <category id="download" name="资源下载" order="2"/>
+    <category id="reference" name="参考链接" order="3"/>
+</categories>
