@@ -1,5 +1,5 @@
-# 清单 1.2
+# Parse CSV
 
-对 CSV 数据进行一些基本处理
+简单的解析 CSV 文件
 
 <code-block lang="rust" src="examples/parse-csv/src/main.rs"/>

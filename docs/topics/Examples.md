@@ -1,3 +1,3 @@
-# Rust in Action
+# Examples
 
 Start typing here...

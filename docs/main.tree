@@ -7,7 +7,8 @@
                   name="rust"
                   start-page="README.md">
     <toc-element topic="README.md"/>
-    <toc-element topic="Rust-in-Action.md">
-        <toc-element topic="清单-1-2.md"/>
+    <toc-element topic="Examples.md">
+        <toc-element topic="Parse-CSV.md"/>
+        <toc-element topic="Mandelbrot.md"/>
     </toc-element>
 </instance-profile>
