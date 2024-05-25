@@ -7,7 +7,7 @@
             icon16.svg,icon32.svg,icon96.svg,icon300.svg,icon500.svg
         </custom-favicons>
         <web-root>https://majiko.org/rust/</web-root>
-        <product-web-url>https://majiko.org/rust/</product-web-url>
+        <product-web-url>https://majiko.org/</product-web-url>
 
         <color-preset>vivid</color-preset>
 
