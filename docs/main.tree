@@ -10,5 +10,6 @@
     <toc-element topic="Examples.md">
         <toc-element topic="Parse-CSV.md"/>
         <toc-element topic="Mandelbrot.md"/>
+        <toc-element topic="Grep-lite.md"/>
     </toc-element>
 </instance-profile>
